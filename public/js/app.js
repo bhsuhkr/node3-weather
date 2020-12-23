@@ -1,7 +1,5 @@
 // user side javascript
 
-console.log('Client side javascript file is loaded!')
-
 // select the first element in html
 const weatherForm = document.querySelector('form')
 const search = document.querySelector('input')
